@@ -4,6 +4,7 @@ Creating Leaflet Webmaps using Python and Folium
 ##Dependencies
 
 * folium: (https://folium.readthedocs.io/en/latest/)
+* pandas: (http://pandas.pydata.org/)
 
 Install missing dependencies using [pip](https://pip.pypa.io/en/stable/installing/)
 
