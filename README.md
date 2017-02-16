@@ -9,7 +9,7 @@ Install missing dependencies using [pip](https://pip.pypa.io/en/stable/installin
 
 ##Usage
 
-Using the data available at https://data.gov.in/resources/all-india-pincode-directory-contact-details-along-latitude-and-longitude/download to plot map of Post offices using Latitude and Longitude from the file
+Reading the data available at https://data.gov.in/resources/all-india-pincode-directory-contact-details-along-latitude-and-longitude/download using Pandas to plot map of Post offices using Latitude and Longitude columns
 
 ```
 python fmap.py
