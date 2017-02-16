@@ -3,7 +3,7 @@ Creating Leaflet Webmaps using Python and Folium
 
 ##Usage
 
-Please have your location history downloaded to the folder of the script by signing in to your Google account and run using the following command
+Using the data available at https://data.gov.in/resources/all-india-pincode-directory-contact-details-along-latitude-and-longitude/download to plot map using Latitude and Longitude from the file
 
 ```
 python fmap.py
